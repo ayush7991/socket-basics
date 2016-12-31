@@ -12,3 +12,12 @@ h1 {
 .messages p {
 	margin: 6px 0;
 }
+
+.full {
+    background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height:100%;
+}
